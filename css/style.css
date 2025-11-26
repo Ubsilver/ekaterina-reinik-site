@@ -1655,3 +1655,11 @@ font-size: 1.2rem;}
     font-size: 0.95rem;
   }
 }
+
+@media(max-width: 470px){
+  .main-btn{
+    padding: 10px 15px;
+    font-size: 13px;
+
+  }
+}
